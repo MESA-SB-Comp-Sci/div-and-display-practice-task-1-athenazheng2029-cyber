@@ -11,3 +11,39 @@
     border: 5px solid black;
 }
 
+.box1 {
+    background-color: rgb(146, 253, 146);
+    color: rgb(26, 149, 26);
+    display: block;
+    width: 100vw;
+    height: 30%;
+}
+
+.box2 {
+    background-color: rgb(245, 212, 149);
+    color:rgb(255, 166, 0);
+    display: block;
+    width: 100vw;
+    height: 30%;
+}
+
+.box3 {
+    background-color: rgb(151, 151, 248);
+    color: blue;
+    display: block;
+    width: 100vw;
+    height: 30%;
+}
+
+.lineup {
+    display: inline;
+    width: 7vw;
+    height: 5vh;
+    padding: 4px;
+}
+
+.colorgreen {
+    background-color: green;
+    color: white;
+}
+
